@@ -2,7 +2,7 @@
 
 Base de uma aplicação que permite transcrever arquivos de áudio em português e traduzi-los para diferentes idiomas usando IA.
 
-## 🖼️ Projeto:
+## Projeto:
 ![Pagina Inicial](./assets/image.png)
 
 ## Funcionalidades
